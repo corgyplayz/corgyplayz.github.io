@@ -17,10 +17,12 @@ html {
   font-size: 100%;
 }
 
-body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+body { 
+  background: url(https://38zjug1565gg350uq01alvif-wpengine.netdna-ssl.com/wp-content/uploads/revslider/slider_9/video-bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .container {
