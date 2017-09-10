@@ -71,7 +71,7 @@ p {
 }
 
 a {
-  color: #000000;
+  color: #50FEFE;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -128,8 +128,8 @@ img {
   background: #b731c6;
 }
 ::selection {
-  color: #b731c6;
-  background: #000000;
+  color: #fffff;
+  background: #50FEFE;
 }
 
 // Nicolas Gallagher's micro clearfix hack
