@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>The fuze box</td>
+    <td>Fuze Box - Raspberry Pi</td>
     <td>Date</td>
     <td>13/9/17</td>
   </tr>
