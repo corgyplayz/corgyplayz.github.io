@@ -34,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #000000;
+  color: #ffffff;
   font-weight: bold;
 
   line-height: 1.7;
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #000000;
+    color: #ffffff;
   }
 }
 
@@ -71,7 +71,7 @@ p {
 }
 
 a {
-  color: #000000;
+  color: #ffffff;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -124,7 +124,7 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: #50FEFE;
+  color: #ffffff;
   background: #50FEFE;
 }
 ::selection {
