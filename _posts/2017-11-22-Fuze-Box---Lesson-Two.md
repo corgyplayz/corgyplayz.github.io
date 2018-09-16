@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Fuze Box - Raspberry Pi</td>
+    <td>Lesson 1</td>
     <td>Date</td>
-    <td>20/9/17</td>
+    <td>16/9/18</td>
   </tr>
 </table>
 
